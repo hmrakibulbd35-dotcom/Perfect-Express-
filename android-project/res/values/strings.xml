@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BazaarPulse</string>
+    <string name="splash_tagline">Next-Gen E-Commerce &amp; Logistics Platform</string>
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="retry">Retry</string>
+</resources>

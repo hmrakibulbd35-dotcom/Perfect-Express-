@@ -1,0 +1,6 @@
+{
+  "name": "BazaarPulse - Enterprise E-Commerce & Mobile Ecosystem",
+  "description": "Production-ready E-Commerce platform with Next.js Storefront, Flutter Mobile App, PostgreSQL Prisma Schema, Admin Dashboard, and bKash/Nagad/Courier integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
